@@ -6,7 +6,7 @@ import GameModel.Things.Items.Consumables.Food;
 import java.util.ArrayList;
 
 /**
- *
+ * Models a Person
  * @author James
  */
 public class Person
