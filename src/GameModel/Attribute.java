@@ -27,6 +27,27 @@ public class Attribute
         status="initialized";
         min=0;
         max=100;
+        value=50;
+        
+    }
+    
+    public Attribute(String name)
+    {
+        this.name=name;
+        status="initialized";
+        min=0;
+        max=100;
+        value=50;
+        
+    }
+    
+    public Attribute(String name, int value)
+    {
+        this.name=name;
+        status="initialized";
+        min=0;
+        max=100;
+        this.value=value;
         
     }
 
