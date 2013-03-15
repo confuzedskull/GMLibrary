@@ -38,7 +38,7 @@ public class Climate
     
     /**
      * gets a summary of the climate
-     * @return     the sum of x and y 
+     * @return a summary of the climate 
      */
     public String getSummary()
     {

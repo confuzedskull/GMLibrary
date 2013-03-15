@@ -30,8 +30,8 @@ public class Place extends Thing
 
     }
     /**
-     * An example of a method - replace this comment with your own
-     * @return     the sum of x and y 
+     * Gets the status of the place
+     * @return a description of current condition
      */
     public String getStatus()
     {
@@ -45,7 +45,7 @@ public class Place extends Thing
 
     /**
      * gets all inhabitants in this place and its subplaces
-     * @return     the sum of x and y 
+     * @return  a list of inhabitants
      */
     public ArrayList<Thing> getInhabitants()
     {
@@ -58,8 +58,8 @@ public class Place extends Thing
     }
 
     /**
-     * An example of a method - replace this comment with your own
-     * @return     the sum of x and y 
+     * Gets the population
+     * @return  the number of inhabitants
      */
     public int getPopulation()
     {
@@ -70,7 +70,7 @@ public class Place extends Thing
     
     /**
      * gets a summary of the weather
-     * @return     a summary of the current area climate
+     * @return  the summary of the climate
      */
     public String getWeather()
     {
@@ -79,7 +79,7 @@ public class Place extends Thing
     
     /**
      * gets the terrain of the area
-     * @return     the sum of x and y 
+     * @return  the terrain
      */
     public Terrain getTerrain()
     {
