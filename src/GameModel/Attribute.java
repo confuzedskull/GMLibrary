@@ -79,6 +79,7 @@ public class Attribute
         
         return status;
     }
+    
     /**
      * Gets the maximum value
      * @return an integer representing the maximum value
