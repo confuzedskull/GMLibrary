@@ -12,7 +12,7 @@ public class Attribute
     // instance variables - replace the example below with your own
     public int value;
     public String name;
-    public String status;
+    private String status;
     public String description;
     private int max,min;
     public static int globalMax,globalMin;
@@ -50,10 +50,19 @@ public class Attribute
         this.value=value;
         
     }
+    /**
+     * Sets the status
+     * @param status a string that contains the new status
+     */
+    public void setStatus(String status) {
+        this.status = status;
+    }
+    
+    
 
     /**
      * Gets the current status of the attribute based on percentage
-     * @return     the status
+     * @return  an evaluation of the status based on relative value
      */
     public String getStatus()
     {
@@ -69,6 +78,37 @@ public class Attribute
         status="extremely low";
         
         return status;
+    }
+    /**
+     * Gets the maximum value
+     * @return an integer representing the maximum value
+     */
+    public int getMax() {
+        return max;
+    }
+    
+    /**
+     * Sets the maximum value
+     * @param max the new maximum value
+     */
+    public void setMax(int max) {
+        this.max = max;
+    }
+
+    /**
+     * Gets the minimum value
+     * @return the minimum value
+     */
+    public int getMin() {
+        return min;
+    }
+
+    /**
+     * Sets the minimum value
+     * @param min the new minimum value
+     */
+    public void setMin(int min) {
+        this.min = min;
     }
     
     /**

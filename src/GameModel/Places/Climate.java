@@ -43,7 +43,7 @@ public class Climate
     public String getSummary()
     {
         // put your code here
-        return humidity.status+sunlight.status+rain.status+wind.status;
+        return humidity.getStatus()+sunlight.getStatus()+rain.getStatus()+wind.getStatus();
     }
     
 }

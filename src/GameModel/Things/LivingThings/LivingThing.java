@@ -138,7 +138,7 @@ public class LivingThing extends Thing
      */   
     public String getStatus()
     {
-        status=health.status + hunger.status + thirst.status;
+        status="health: "+health.getStatus() + " hunger: "+ hunger.getStatus() + " thirst:" + thirst.getStatus();
         return status;
     }
 
@@ -151,7 +151,7 @@ public class LivingThing extends Thing
         health.value-=getHunger() + getThirst();
 
         if(health.value<25)
-            health.status="dying";
+            health.setStatus("dying");
 
         if(health.value==0)
             living=false;
@@ -166,16 +166,16 @@ public class LivingThing extends Thing
     {
         if(hunger.value==0)
         {
-            hunger.status=" full";
+            hunger.setStatus(" full");
         }
         if(hunger.value>25)
         {
-            hunger.status=" hungry";
+            hunger.setStatus(" hungry");
         }
 
         if(hunger.value>50)
         {
-            hunger.status=" famished";
+            hunger.setStatus(" famished");
         }
         return hunger.value;
     }
@@ -187,15 +187,15 @@ public class LivingThing extends Thing
     {
         if(thirst.value==0)
         {
-            thirst.status="quenched";
+            thirst.setStatus("quenched");
         }
         else
         {
-            thirst.status="thirsty";
+            thirst.setStatus("thirsty");
         }
         if(thirst.value>50)
         {
-            thirst.status="parched";
+            thirst.setStatus("parched");
         }
         return thirst.value;
     }
