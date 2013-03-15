@@ -2,34 +2,23 @@ package GameModel.Materials;
 
 
 /**
- * Write a description of class Hair here.
+ * Hair is a material collected from animals.
+ * It provides warmth and protection.
  * 
  * @author James Nakano
  * @version (a version number or a date)
  */
 public class Hair extends Material
 {
-    // instance variables - replace the example below with your own
-    private int x;
+    
 
     /**
      * Constructor for objects of class Hair
      */
     public Hair()
     {
-        // initialise instance variables
-        x = 0;
+        
     }
 
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
+    
 }

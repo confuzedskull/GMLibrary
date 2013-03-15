@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Shirts here.
+ * Shirts are a type of nonprotective topwear
  * 
  * @author James Nakano 
  * @version (a version numbeTopweardate)

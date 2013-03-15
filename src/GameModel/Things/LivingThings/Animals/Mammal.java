@@ -4,7 +4,7 @@ import GameModel.Things.LivingThings.BodyParts.*;
 import GameModel.Materials.*;
 
 /**
- * Write a description of class Mammal here.
+ * A warm-blooded animal that gives birth internally
  * 
  * @author James Nakano
  * @version (a version number or a date)

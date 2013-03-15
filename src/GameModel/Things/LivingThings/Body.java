@@ -3,7 +3,7 @@ import GameModel.Things.LivingThings.BodyParts.BodyPart;
 import GameModel.Materials.*;
 import java.util.ArrayList; 
 /**
- * A Body is a living thing
+ * The main structure that makes up a living thing
  * 
  * @author James Nakano 
  * @version (a version number or a date)

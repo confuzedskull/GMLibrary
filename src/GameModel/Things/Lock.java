@@ -3,7 +3,7 @@ import GameModel.Things.Items.Key;
 
 
 /**
- * Write a description of class Lock here.
+ * A lock secures things. It requires a key to be unlocked.
  * 
  * @author James Nakano
  * @version (a version number or a date)

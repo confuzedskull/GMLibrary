@@ -2,7 +2,7 @@ package GameModel.Things.Items;
 
 
 /**
- * Write a description of class Ammo here.
+ * Ammo is what is fired from a ranged weapon
  * 
  * @author James Nakano
  * @version (a version number or a date)

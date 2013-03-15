@@ -2,7 +2,7 @@ package GameModel.Things.Items.Containers;
 
 
 /**
- * Write a description of class Quiver here.
+ * A quiver is a container that stores arrows
  * 
  * @author James Nakano
  * @version (a version number or a date)

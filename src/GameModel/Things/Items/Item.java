@@ -2,7 +2,7 @@ package GameModel.Things.Items;
 import GameModel.Things.Thing;
 import java.util.ArrayList; 
 /**
- * Write a description of class Item here.
+ * An item is a thing that has value and use
  * 
  * @author James Nakano
  * @version (a version number or a date)

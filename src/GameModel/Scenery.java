@@ -2,7 +2,8 @@ package GameModel;
 
 
 /**
- * Write a description of class Scenery here.
+ * Scenery is what makes the environment look pretty. 
+ * It consists of everything that doesnt really have function but shows up in the world.
  * 
  * @author James Nakano 
  * @version (a version number or a date)
@@ -21,15 +22,5 @@ public class Scenery
         x = 0;
     }
 
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
+    
 }

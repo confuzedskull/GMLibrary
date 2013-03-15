@@ -2,7 +2,7 @@ package GameModel.Things.Items.Weapons;
 
 
 /**
- * Write a description of class Gun here.
+ * A ranged weapon that fires bullets
  * 
  * @author James Nakano 
  * @version (a version number or a date)

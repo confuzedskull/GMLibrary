@@ -2,7 +2,7 @@ package GameModel;
 
 
 /**
- * Write a description of class Interface here.
+ * The GUI - menus
  * 
  * @author James Nakano
  * @version (a version number or a date)

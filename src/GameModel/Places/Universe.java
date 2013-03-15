@@ -2,7 +2,7 @@ package GameModel.Places;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class Universe here.
+ * A universe is the largest place possible. It contains worlds.
  * 
  * @author James Nakano
  * @version (a version number or a date)

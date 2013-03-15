@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Footwear here.
+ * Footwear is clothing for the feet
  * 
  * @author James Nakano 
  * @version (a version number or a date)

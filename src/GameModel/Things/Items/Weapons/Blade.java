@@ -2,7 +2,7 @@ package GameModel.Things.Items.Weapons;
 import GameModel.Things.Items.Item;
 
 /**
- * Write a description of class Blade here.
+ * A weapon that is sharp
  * 
  * @author (your name) 
  * @version (a version number or a date)

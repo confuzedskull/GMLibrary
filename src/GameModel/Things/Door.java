@@ -2,7 +2,7 @@ package GameModel.Things;
 
 
 /**
- * Write a description of class Door here.
+ * A door allows things to go in and out of a room
  * 
  * @author James Nakano 
  * @version (a version number or a date)

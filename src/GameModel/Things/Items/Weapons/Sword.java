@@ -2,7 +2,7 @@ package GameModel.Things.Items.Weapons;
 
 
 /**
- * Write a description of class Sword here.
+ * A large blade
  * 
  * @author James Nakano 
  * @version (a version number or a date)

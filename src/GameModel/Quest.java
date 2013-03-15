@@ -2,7 +2,7 @@ package GameModel;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class Quest here.
+ * A quest is an objective that consists of other objectives.
  * 
  * @author James Nakano
  * @version (a version number or a date)

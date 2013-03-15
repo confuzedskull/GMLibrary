@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.Animals;
 import GameModel.Things.LivingThings.BodyParts.*;
 
 /**
- * Write a description of class Dragon here.
+ * A fire-breathing reptile capable of flight
  * 
  * @author James Nakano
  * @version (a version number or a date)

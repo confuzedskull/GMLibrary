@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Hat here.
+ * A hat is a more stylish piece of headwear
  * 
  * @author James Nakano
  * @version (a version nuHeadweara date)

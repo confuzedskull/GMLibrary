@@ -4,7 +4,8 @@ import GameModel.Things.Items.Item;
 import GameModel.Things.Items.Containers.Container;
 import java.util.ArrayList; 
 /**
- * Write a description of class Objective here.
+ * An objective is a task that must be completed in order to progress in the game.
+ * When the objective is complete, a player may be rewarded
  * 
  * @author James Nakano
  * @version (a version number or a date)

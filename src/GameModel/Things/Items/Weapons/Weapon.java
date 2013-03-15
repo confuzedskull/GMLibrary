@@ -4,7 +4,7 @@ import GameModel.Attribute;
 
 
 /**
- * Write a description of class Weapon here.
+ * A tool made for combat
  * 
  * @author James Nakano
  * @version (a version number or a date)

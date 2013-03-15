@@ -2,7 +2,7 @@ package GameModel.Things.Items.Weapons;
 
 
 /**
- * Write a description of class Knife here.
+ * A short, single-handed blade
  * 
  * @author James Nakano
  * @version (a version number or a date)

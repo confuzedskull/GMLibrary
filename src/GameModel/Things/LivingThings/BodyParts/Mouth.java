@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.BodyParts;
 
 
 /**
- * Write a description of class Mouth here.
+ * A mouth is used for eating and speaking
  * 
  * @author James Nakano
  * @version (a version number or a date)

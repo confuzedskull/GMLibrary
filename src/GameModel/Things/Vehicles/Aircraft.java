@@ -5,6 +5,7 @@ import GameModel.Things.Wheel;
 
 /**
  * An aircraft is a vehicle that allows for air transportation and flight.
+ * It can transport large groups of people
  * 
  * @author James Nakano 
  * @version (a version number or a date)

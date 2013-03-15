@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Pants here.
+ * Pants are a type of nonprotective bottom wear
  * 
  * @author  James Nakano
  * @version (a version number or a date)

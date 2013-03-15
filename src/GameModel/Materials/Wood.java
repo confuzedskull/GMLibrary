@@ -2,7 +2,7 @@ package GameModel.Materials;
 
 
 /**
- * Write a description of class Wood here.
+ * Wood is strong but flammable
  * 
  * @author James Nakano
  * @version (a version number or a date)

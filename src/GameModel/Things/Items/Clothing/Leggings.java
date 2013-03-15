@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Leggings here.
+ * Leggings are a type of armor that covers the legs
  * 
  * @author James Nakano 
  * @version (a version number or a date)

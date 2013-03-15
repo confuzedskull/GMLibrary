@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.BodyParts;
 
 
 /**
- * Write a description of class Leg here.
+ * A leg is an appendage used for transportation.
  * 
  * @author James Nakano 
  * @version (a version number or a date)

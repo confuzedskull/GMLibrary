@@ -2,7 +2,7 @@ package GameModel.Things.Items;
 
 
 /**
- * Write a description of class Furniture here.
+ * Furniture is a decorative item typically used for sitting on
  * 
  * @author James Nakano 
  * @version (a version number or a date)

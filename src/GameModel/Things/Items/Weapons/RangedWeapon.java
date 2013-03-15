@@ -3,7 +3,7 @@ import GameModel.Things.Items.Ammo;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class RangedWeapon here.
+ * A weapon that can inflict damage from a distance
  * 
  * @author James Nakano
  * @version (a version number or a date)

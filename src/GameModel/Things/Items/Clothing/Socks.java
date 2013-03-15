@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Socks here.
+ * Socks are worn under shoes to keep the feet warm and absorb sweat
  * 
  * @author James Nakano 
  * @version (a version number or a date)

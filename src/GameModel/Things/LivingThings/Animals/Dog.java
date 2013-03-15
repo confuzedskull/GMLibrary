@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.Animals;
 import GameModel.Things.LivingThings.BodyParts.*;
 
 /**
- * Write a description of class Dog here.
+ * An four-legged mammal from the canine species
  * 
  * @author James Nakano 
  * @version (a version number or a date)

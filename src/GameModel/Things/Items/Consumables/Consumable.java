@@ -3,7 +3,7 @@ import GameModel.Things.Items.Item;
 import GameModel.Attribute;
 
 /**
- * Write a description of class Consumable here.
+ * An item that can be consumed to improve stats
  * 
  * @author James Nakano
  * @version (a version number or a date)

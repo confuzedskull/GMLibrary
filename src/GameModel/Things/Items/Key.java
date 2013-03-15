@@ -2,7 +2,7 @@ package GameModel.Things.Items;
 
 
 /**
- * Write a description of class Key here.
+ * A key unlocks a lock
  * 
  * @author James Nakano
  * @version (a version number or a date)

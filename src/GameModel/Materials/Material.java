@@ -4,7 +4,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Write a description of class Material here.
+ * Material is used to create things.
+ * It can be combined with other material to create something new.
  * 
  * @author James Nakano
  * @version (a version number or a date)

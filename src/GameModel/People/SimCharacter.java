@@ -4,7 +4,8 @@ import GameModel.Outfit;
 
 
 /**
- * Write a description of class SimCharacter here.
+ * A SimCharacter is a character used in simulations
+ * It is more detailed than a regular character and has needs that must be met.
  * 
  * @author James Nakano
  * @version (a version number or a date)

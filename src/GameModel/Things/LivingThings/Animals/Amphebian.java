@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.Animals;
 
 
 /**
- * Write a description of class Amphebian here.
+ * An animal that can live in water and on land
  * 
  * @author James Nakano
  * @version (a version number or a date)

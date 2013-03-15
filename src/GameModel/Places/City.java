@@ -2,7 +2,7 @@ package GameModel.Places;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class City here.
+ * A city is a place that contains buildings
  * 
  * @author James Nakano
  * @version (a version number or a date)

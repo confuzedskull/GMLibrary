@@ -4,7 +4,7 @@ import GameModel.Things.Items.Item;
 import java.util.ArrayList; 
 import java.lang.Character;
 /**
- * A container stores items
+ * A container stores things
  * 
  * @author James Nakano
  * @version (a version number or a date)

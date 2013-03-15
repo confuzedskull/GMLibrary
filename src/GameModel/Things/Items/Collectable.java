@@ -2,7 +2,7 @@ package GameModel.Things.Items;
 
 
 /**
- * Write a description of class Collectable here.
+ * A collectable is an item that doesn't really do anything
  * 
  * @author James Nakano 
  * @version (a version number or a date)

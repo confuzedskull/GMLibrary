@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Chestpiece here.
+ * A chestpiece is armor that covers the chest
  * 
  * @author James Nakano
  * @version (a version number orTopwear)

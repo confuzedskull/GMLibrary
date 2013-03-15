@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.BodyParts;
 
 
 /**
- * Write a description of class Nose here.
+ * A body part used for smelling
  * 
  * @author James Nakano
  * @version (a version number or a date)

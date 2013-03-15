@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.Animals;
 
 
 /**
- * Write a description of class Fish here.
+ * A water-dwelling animal
  * 
  * @author James Nakano 
  * @version (a version number or a date)

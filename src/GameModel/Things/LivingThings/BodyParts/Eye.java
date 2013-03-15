@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.BodyParts;
 
 import java.awt.Color;
 /**
- * Write a description of class Eye here.
+ * A body part that enables sight
  * 
  * @author James Nakano
  * @version (a version number or a date)

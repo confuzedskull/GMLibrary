@@ -2,7 +2,7 @@ package GameModel.Things.Items.Consumables;
 import GameModel.Things.Items.Containers.Container;
 
 /**
- * Write a description of class Beverage here.
+ * A fluid consumable
  * 
  * @author James Nakano
  * @version (a version number or a date)

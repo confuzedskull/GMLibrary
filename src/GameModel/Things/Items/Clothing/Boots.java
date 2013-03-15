@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Boots here.
+ * Boots are a more heavy-duty footwear
  * 
  * @author James Nakano 
  * @version (a version number or a date)

@@ -2,9 +2,10 @@ package GameModel;
 import GameModel.Things.Thing;
 
 /**
- * Write a description of class PhysicalThing here.
+ * A physical thing exists in a physical world.
+ * It takes up space and has mass.
  * 
- * @author (your name) 
+ * @author James 
  * @version (a version number or a date)
  */
 public class PhysicalThing extends Thing 
@@ -23,15 +24,5 @@ public class PhysicalThing extends Thing
         x = 0;
     }
 
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
+    
 }

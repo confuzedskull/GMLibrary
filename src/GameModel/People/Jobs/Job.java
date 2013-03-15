@@ -2,7 +2,8 @@
 package GameModel.People.Jobs;
 
 /**
- * Models a Job
+ * A Job is an occupation that a person has.
+ * It allows them to work to produce income.
  * @author James
  */
 public class Job

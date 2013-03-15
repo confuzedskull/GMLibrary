@@ -2,7 +2,7 @@ package GameModel.Places;
 
 import java.awt.Color;
 /**
- * Write a description of class Light here.
+ * Light is what makes things visible
  * 
  * @author James Nakano
  * @version (a version number or a date)

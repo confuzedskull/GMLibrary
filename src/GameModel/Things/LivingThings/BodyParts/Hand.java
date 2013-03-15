@@ -2,7 +2,8 @@ package GameModel.Things.LivingThings.BodyParts;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class Hand here.
+ * A hand a body part that allows living things to grasp objects
+ * It consists of multiple fingers
  * 
  * @author James Nakano 
  * @version (a version number or a date)

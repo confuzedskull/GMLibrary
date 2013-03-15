@@ -2,7 +2,7 @@ package GameModel;
 
 
 /**
- * Write a description of class Controls here.
+ * Takes care of the controls in the game
  * 
  * @author James
  * @version (a version number or a date)

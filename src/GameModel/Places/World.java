@@ -2,7 +2,7 @@ package GameModel.Places;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class World here.
+ * A world a place where things live and exist
  * 
  * @author James Nakano
  * @version (a version number or a date)

@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Belt here.
+ * A belt is an accessory that is worn around the waist
  * 
  * @author (your name) 
  * @version (a version number or a date)

@@ -2,7 +2,7 @@ package GameModel.Places;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class Continent here.
+ * A continent is a place that contains countries
  * 
  * @author (your name) 
  * @version (a version number or a date)

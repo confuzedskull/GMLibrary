@@ -2,7 +2,7 @@ package GameModel.Materials;
 
 import java.awt.Color;
 /**
- * Skin is worn by animals. It is also a type of material
+ * Skin is a type of material worn by animals
  * 
  * @author James Nakano
  * @version (a version number or a date)

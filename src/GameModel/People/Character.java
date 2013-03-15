@@ -3,7 +3,7 @@ import GameModel.Things.LivingThings.LivingThing;
 
 
 /**
- * Write a description of class Character here.
+ * A character takes part in the story line of a game.
  * 
  * @author James Nakano
  * @version (a version number or a date)

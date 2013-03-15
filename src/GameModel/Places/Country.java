@@ -2,9 +2,9 @@ package GameModel.Places;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class Country here.
+ * A country is a place that contains Cities
  * 
- * @author (your name) 
+ * @author James Nakano 
  * @version (a version number or a date)
  */
 public class Country extends Place

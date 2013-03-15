@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.Animals;
 
 
 /**
- * Write a description of class Reptile here.
+ * A scaly cold-blooded animal
  * 
  * @author James Nakano 
  * @version (a version number or a date)

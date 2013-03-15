@@ -3,7 +3,7 @@ package GameModel;
 import GameModel.People.Character;
 import java.util.ArrayList; 
 /**
- * Write a description of class Player here.
+ * A player in the game
  * 
  * @author James Nakano 
  * @version (a version number or a date)

@@ -2,7 +2,7 @@ package GameModel.Materials;
 
 
 /**
- * Write a description of class Metal here.
+ * Metal is a hard material that is conductive and durable.
  * 
  * @author James Nakano
  * @version (a version number or a date)

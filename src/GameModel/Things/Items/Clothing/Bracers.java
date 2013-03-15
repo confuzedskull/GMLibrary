@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Bracers here.
+ * Bracers are worn to cover and protect the arms
  * 
  * @author James Nakano 
  * @version (a version number or a date)

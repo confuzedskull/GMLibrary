@@ -17,8 +17,7 @@ public class Headwear extends Clothing
      */
     public Headwear()
     {
-        // initialise instance variables
-        x = 0;
+        
         category="Clothing";
     }
 

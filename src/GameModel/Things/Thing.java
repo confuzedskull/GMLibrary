@@ -3,7 +3,7 @@ package GameModel.Things;
 import java.awt.geom.Point2D;
 import java.util.ArrayList; 
 /**
- * A Thing
+ * A Thing is an object that has a name,number, status, and description
  * 
  * @author James Nakano 
  * @version 11/17/2012

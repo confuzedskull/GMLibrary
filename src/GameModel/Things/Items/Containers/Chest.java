@@ -1,7 +1,8 @@
 package GameModel.Things.Items.Containers;
 import GameModel.Things.Lock;
 /**
- * Write a description of class Chest here.
+ * A chest is a container that holds items.
+ * It can be locked.
  * 
  * @author James Nakano
  * @version (a version number or a date)
@@ -17,13 +18,4 @@ public class Chest extends Container
 
     }
 
-    /**
-     * creates a chest of random items
-     */
-    public int random(int y)
-    {
-        return y;
-    }
-    
- 
 }

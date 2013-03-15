@@ -3,7 +3,8 @@ import GameModel.Things.Wheel;
 
 
 /**
- * Write a description of class Car here.
+ * A car is a motorized vehicle that has 4 wheels
+ * It transports small groups of people
  * 
  * @author James Nakano 
  * @version (a version number or a date)

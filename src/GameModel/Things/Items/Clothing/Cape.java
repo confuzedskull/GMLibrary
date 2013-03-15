@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Cape here.
+ * A cape is a decorative cloth worn on the back 
  * 
  * @author (your name) 
  * @version (a version number or a date)

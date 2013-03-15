@@ -2,7 +2,7 @@ package GameModel.Places;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class Building here.
+ * A building is a structured place that contains floors
  * 
  * @author James Nakano
  */

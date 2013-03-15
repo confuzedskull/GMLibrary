@@ -6,7 +6,7 @@ import GameModel.Places.Light;
 import GameModel.Things.Items.Key;
 
 /**
- * Write a description of class Room here.
+ * A room is a place that has a door
  * 
  * @author James Nakano 
  * @version (a version number or a date)

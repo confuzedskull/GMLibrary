@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Topwear here.
+ * Topwear is clothing that is to be worn on the upper half of the body
  * 
  * @author James Nakano
  * @version (a version numberClothingte)

@@ -2,7 +2,7 @@ package GameModel.Things.Items.Clothing;
 
 
 /**
- * Write a description of class Accesories here.
+ * An Accessory is something worn for style such as jewelry 
  * 
  * @author James Nakano 
  * @version (a version number or a date)

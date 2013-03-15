@@ -2,7 +2,7 @@ package GameModel;
 
 import java.util.ArrayList; 
 /**
- * Write a description of class Level here.
+ * A typical game level
  * 
  * @author James Nakano
  * @version (a version number or a date)

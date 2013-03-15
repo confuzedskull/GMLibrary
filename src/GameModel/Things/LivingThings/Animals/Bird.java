@@ -2,7 +2,7 @@ package GameModel.Things.LivingThings.Animals;
 
 
 /**
- * Write a description of class Bird here.
+ * An animal that has the ability to fly
  * 
  * @author James Nakano 
  * @version (a version number or a date)

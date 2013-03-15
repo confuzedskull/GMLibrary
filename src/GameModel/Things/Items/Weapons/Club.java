@@ -2,7 +2,7 @@ package GameModel.Things.Items.Weapons;
 
 
 /**
- * Write a description of class Club here.
+ * A blunt weapon
  * 
  * @author James Nakano
  * @version (a version number or a date)
