@@ -1,5 +1,7 @@
 package GameModel.Materials;
 
+import GameModel.Attribute;
+
 
 /**
  * Wood is strong but flammable
@@ -9,14 +11,14 @@ package GameModel.Materials;
  */
 public class Wood extends Material
 {
-
+    
     /**
      * Constructor for objects of class Wood
      */
     public Wood()
     {
-        fire_resist.value=0;
-        hardness.value=5;
+        fire_resist=0;
+        hardness=5;
     }
 
 }
