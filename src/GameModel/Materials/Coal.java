@@ -21,10 +21,22 @@ public class Coal extends Material
         color=Color.BLACK;
     }
 
+   
     @Override
     public boolean combinesWith(Combinable other)
     {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        if(other.getClass().equals(Iron.class))
+            return true;
+        else return false;
+    }
+
+    
+    public Material combine(Material other)
+    {
+        if(other.getClass().equals(Iron.class))
+            return new Steel();
+        else
+            return this;
     }
 
     @Override
@@ -32,5 +44,7 @@ public class Coal extends Material
     {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+    
     
 }

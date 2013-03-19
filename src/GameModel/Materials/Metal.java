@@ -37,7 +37,7 @@ public class Metal extends Material
         malleability=10;
         
     }
-
+    
     @Override
     public boolean combinesWith(Combinable other)
     {
