@@ -9,8 +9,8 @@ public class Cotton extends Material
 {
     public Cotton()
             {
-                hardness=0;
-                fire_resist=0;
-                water_resist=0;
+                density=1;
+                hardness=1;
+                flamability=10;
             }
 }

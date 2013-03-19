@@ -1,6 +1,7 @@
 package GameModel.Materials;
 
 import GameModel.Attribute;
+import java.awt.Color;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -13,29 +14,26 @@ import java.util.ArrayList;
  */
 public class Material
 {
-    public int durability;
     public int hardness;
-    public int flexibility;
+    public int density;
+    public int durability;
     public int conductivity;
-    public int water_resist;
-    public int fire_resist;
-    public int air_resist;
-    public int earth_resist;
+    public int flamability;
+    public Color color;
     public ArrayList<Attribute> attributes;
     public boolean wet;
     public boolean combinable;
-    public String name;
-    public String description;
-    public double temperature;
+    public int temperature;
+    public int weight;
+    
 
     /**
      * Constructor for objects of class Material
      */
     public Material()
     {
-        name = "new material";
-        description = "an unknown material";
         combinable = true;
+        wet=false;
     }
 
     /**

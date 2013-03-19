@@ -17,8 +17,11 @@ public class Wood extends Material
      */
     public Wood()
     {
-        fire_resist=0;
-        hardness=5;
+        flamability=8;
+        hardness=7;
+        conductivity=7;
+        density=7;
+        durability=7;
     }
 
 }

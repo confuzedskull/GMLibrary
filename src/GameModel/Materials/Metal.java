@@ -11,29 +11,28 @@ import GameModel.Attribute;
  */
 public class Metal extends Material
 {
-    
+    private int malleability;
+    private int melting_point;
     /**
      * Constructor for objects of class Metal
      */
     public Metal()
     {
-        name="Metal";
-        description="Some kind of metal";
+        flamability=1;
+        density=8;
+        durability=10;
         conductivity=10;
         hardness=10;
-        flexibility=7;
-        water_resist=3;
-        air_resist=4;
-        earth_resist=7;
-        durability=10;
     }
     
     public void update()
     {
         if(wet)
-        durability--;
+        {
+            durability--;
+        }
         if(temperature>=2800)
-        flexibility=10;
+        malleability=10;
         
     }
 }

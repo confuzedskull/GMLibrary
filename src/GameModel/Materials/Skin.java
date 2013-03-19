@@ -17,7 +17,9 @@ public class Skin extends Material
      */
     public Skin()
     {
-        
+        flamability=5;
+        hardness=3;
+        conductivity=5;
     }
 
     
