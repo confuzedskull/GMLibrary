@@ -1,6 +1,7 @@
 package GameModel.Materials;
 
 import GameModel.Attribute;
+import GameModel.Combinable;
 import java.awt.Color;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,7 +13,7 @@ import java.util.ArrayList;
  * @author James Nakano
  * @version (a version number or a date)
  */
-public class Material
+public abstract class Material implements Combinable
 {
     public int hardness;
     public int density;
@@ -100,11 +101,12 @@ public class Material
      *
      * @param other the material to be combined with
      */
-    public void combine(Material other) throws IOException
+    public Material combine(Material other) throws IOException
     {
         if (combinesWith(other))
         {
             inheritAttributes(other);
+            return this;
         } else
         {
             throw new IOException("These materials may not be combined");

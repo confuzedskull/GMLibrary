@@ -1,6 +1,8 @@
 package GameModel.Materials;
 
 import GameModel.Attribute;
+import GameModel.Combinable;
+import java.io.IOException;
 
 
 /**
@@ -34,5 +36,17 @@ public class Metal extends Material
         if(temperature>=2800)
         malleability=10;
         
+    }
+
+    @Override
+    public boolean combinesWith(Combinable other)
+    {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void combine(Combinable other) throws IOException
+    {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }

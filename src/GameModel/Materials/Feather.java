@@ -1,5 +1,8 @@
 package GameModel.Materials;
 
+import GameModel.Combinable;
+import java.io.IOException;
+
 
 /**
  * A feather is a type of material.
@@ -19,6 +22,18 @@ public class Feather extends Material
     {
         // initialise instance variables
         x = 0;
+    }
+
+    @Override
+    public boolean combinesWith(Combinable other)
+    {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void combine(Combinable other) throws IOException
+    {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     

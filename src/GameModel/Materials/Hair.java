@@ -1,5 +1,8 @@
 package GameModel.Materials;
 
+import GameModel.Combinable;
+import java.io.IOException;
+
 
 /**
  * Hair is a material collected from animals.
@@ -18,6 +21,18 @@ public class Hair extends Material
     public Hair()
     {
         
+    }
+
+    @Override
+    public boolean combinesWith(Combinable other)
+    {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void combine(Combinable other) throws IOException
+    {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     
