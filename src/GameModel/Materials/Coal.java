@@ -5,7 +5,7 @@ import java.awt.Color;
 import java.io.IOException;
 
 /**
- * A black,brittle material used for making fire
+ * A black,brittle material used for making fire. 
  * @author James
  */
 public class Coal extends Material
@@ -27,16 +27,20 @@ public class Coal extends Material
     {
         if(other.getClass().equals(Iron.class))
             return true;
+        else if(other.getClass().equals(Steel.class))
+            return true;
         else return false;
     }
 
     
+    @Override
     public Material combine(Material other)
-    {
+    { 
         if(other.getClass().equals(Iron.class))
             return new Steel();
-        else
-            return this;
+        else if(other.getClass().equals(Steel.class))
+            return new CarbonSteel();
+        else return this;
     }
 
     @Override
