@@ -11,7 +11,7 @@ import GameModel.Attribute;
  */
 public class Metal extends Material
 {
-    private int malleability;
+    public int malleability;
     private int melting_point;
     /**
      * Constructor for objects of class Metal
@@ -22,7 +22,7 @@ public class Metal extends Material
         density=8;
         durability=10;
         conductivity=10;
-        hardness=10;
+        hardness=8;
     }
     
     public void update()
