@@ -14,4 +14,13 @@ public class Copper extends Metal
         density=7;
     }
     
+    @Override
+    public Material combine(Material other)
+    {
+        if(other.getClass().equals(Tin.class))
+        return new Bronze();
+        else
+            return this;
+    }
+    
 }
