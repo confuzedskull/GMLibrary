@@ -1,48 +1,68 @@
-
 package GameModel.Actions;
 
 /**
- * Every action has a cost, difficulty level, and requires people to perform the action
+ * Every action has a cost and a difficulty
+ *
  * @author James
  */
-public class Action {
-    
+public class Action
+{
+
     private int cost;
-    private int requiredPeople;
     private int difficulty;
-    
+    private boolean done;
+    private int timesPerformed;
+
     /**
      * Creates a new Action
-     * 
+     *
      */
     public Action()
     {
-        cost=0;
-        requiredPeople=1;
-        difficulty=0;
+        cost = 0;
+        difficulty = 0;
+        done = false;
     }
+
     /**
      * Gets the cost of the action.
+     *
      * @return the cost of the action
      */
-    public int getCost() {
+    public int getCost()
+    {
         return cost;
     }
-    /**
-     * Gets the required number of people
-     * @return the number of required people
-     */
-    public int getRequiredPeople() {
-        return requiredPeople;
-    }
+
     /**
      * Gets the level of difficulty
+     *
      * @return an integer representing the level of difficulty
      */
-    public int getDifficulty() {
+    public int getDifficulty()
+    {
         return difficulty;
     }
-    
-   
-    
+
+    /**
+     * Gets how many times the action has been performed
+     *
+     * @return the number of times performed
+     */
+    public int getTimesPerformed()
+    {
+        return timesPerformed;
+    }
+
+    /**
+     * Performs the action
+     */
+    public void perform()
+    {
+        if (done)
+        {
+            timesPerformed++;
+            done=false;
+        }
+    }
 }
