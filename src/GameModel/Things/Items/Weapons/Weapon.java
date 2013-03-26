@@ -1,6 +1,6 @@
 package GameModel.Things.Items.Weapons;
+import GameModel.Materials.Material;
 import GameModel.Things.Items.Item;
-import GameModel.Attribute;
 
 
 /**
@@ -11,16 +11,18 @@ import GameModel.Attribute;
  */
 public class Weapon extends Item
 {
-    private Attribute physical_damage;
-    private Attribute magic_damage;
-    public Attribute range;
-    public Attribute accuracy;
+    private int damage;
+    private int range;
+    private int accuracy;
+    private Material material;
 
     /**
      * Constructor for objects of class Weapon
      */
     public Weapon()
     {
+        name="Generic Weapon";
+        range=1;
         category="Item";
     }
 
