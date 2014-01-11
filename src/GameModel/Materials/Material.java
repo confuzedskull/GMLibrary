@@ -11,7 +11,6 @@ import java.util.ArrayList;
  * create something new.
  *
  * @author James Nakano
- * @version (a version number or a date)
  */
 public abstract class Material implements Combinable
 {

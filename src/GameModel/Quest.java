@@ -8,7 +8,6 @@ import java.util.ArrayList;
  * A quest is an objective that consists of other objectives.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Quest extends Thing
 {

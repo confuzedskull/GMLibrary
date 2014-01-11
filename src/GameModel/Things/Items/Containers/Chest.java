@@ -5,7 +5,6 @@ import GameModel.Things.Lock;
  * It can be locked.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Chest extends Container
 {

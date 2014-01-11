@@ -5,7 +5,6 @@ import GameModel.Places.Universe;
  * The main game 
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Game
 {

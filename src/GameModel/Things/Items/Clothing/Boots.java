@@ -5,7 +5,6 @@ package GameModel.Things.Items.Clothing;
  * Boots are a more heavy-duty footwear
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Boots extends Footwear
 {

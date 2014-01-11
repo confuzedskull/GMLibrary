@@ -5,7 +5,6 @@ package GameModel.Things.Items.Consumables;
  * Food is a Consumable that may be eaten
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Food extends Consumable
 {

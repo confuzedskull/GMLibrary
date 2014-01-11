@@ -6,7 +6,6 @@ import GameModel.Things.Thing;
  * It takes up space and has mass.
  * 
  * @author James 
- * @version (a version number or a date)
  */
 public class PhysicalThing extends Thing 
 {

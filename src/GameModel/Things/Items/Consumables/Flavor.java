@@ -5,7 +5,6 @@ package GameModel.Things.Items.Consumables;
  * Consists of a number of tastes that are attributed to food
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Flavor
 {

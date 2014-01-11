@@ -5,7 +5,6 @@ package GameModel;
  * The GUI - menus
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Interface
 {

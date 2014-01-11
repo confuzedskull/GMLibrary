@@ -5,7 +5,6 @@ package GameModel.Things.Items;
  * Ammo is what is fired from a ranged weapon
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Ammo extends Item
 {

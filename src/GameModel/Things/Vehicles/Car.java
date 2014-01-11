@@ -7,7 +7,6 @@ import GameModel.Things.Wheel;
  * It transports small groups of people
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Car extends Vehicle
 {

@@ -7,7 +7,6 @@ import java.util.ArrayList;
  * An item is a thing that has value and use
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Item extends Thing
 {

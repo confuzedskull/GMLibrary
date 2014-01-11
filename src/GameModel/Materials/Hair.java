@@ -9,7 +9,6 @@ import java.io.IOException;
  * It provides warmth and protection.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Hair extends Material
 {

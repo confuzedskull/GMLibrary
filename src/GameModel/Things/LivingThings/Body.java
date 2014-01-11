@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * The main structure that makes up a living thing
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Body extends LivingThing
 {

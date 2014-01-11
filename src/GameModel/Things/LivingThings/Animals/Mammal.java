@@ -7,7 +7,6 @@ import GameModel.Materials.*;
  * A warm-blooded animal that gives birth internally
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Mammal extends Animal
 {

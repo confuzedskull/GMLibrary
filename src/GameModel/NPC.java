@@ -7,7 +7,6 @@ import GameModel.People.Character;
  * Write a description of class NPC here.
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class NPC extends Character
 {

@@ -7,7 +7,6 @@ import java.io.IOException;
  * Skin is a type of material worn by animals
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Skin extends Material 
 {

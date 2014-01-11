@@ -5,7 +5,6 @@ import GameModel.Things.Items.Containers.Container;
  * A fluid consumable
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Beverage extends Consumable
 {

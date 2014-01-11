@@ -5,7 +5,6 @@ package GameModel.Things.Items.Clothing;
  * A helmet is a piece of armor to be worn on the head
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Helmet extends Headwear
 {

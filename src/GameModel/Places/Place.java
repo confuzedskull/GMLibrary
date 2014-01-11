@@ -7,7 +7,6 @@ import java.awt.geom.Rectangle2D;
  * A place contains things and has climate and terrain. It also may consist of subplaces.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Place extends Thing
 {

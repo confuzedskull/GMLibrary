@@ -5,7 +5,6 @@ package GameModel.Things.Items;
  * Furniture is a decorative item typically used for sitting on
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Furniture extends Item
 {

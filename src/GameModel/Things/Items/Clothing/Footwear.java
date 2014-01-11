@@ -5,7 +5,6 @@ package GameModel.Things.Items.Clothing;
  * Footwear is clothing for the feet
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Footwear extends Clothing
 {

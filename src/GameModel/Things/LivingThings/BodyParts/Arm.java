@@ -5,7 +5,6 @@ package GameModel.Things.LivingThings.BodyParts;
  * An arm an appendage
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Arm extends BodyPart
 {

@@ -8,7 +8,6 @@ import java.io.IOException;
  * A feather is a type of material.
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Feather extends Material
 {

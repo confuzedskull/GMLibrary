@@ -9,7 +9,6 @@ import java.io.IOException;
  * Metal is a hard material that is conductive and durable.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Metal extends Material
 {

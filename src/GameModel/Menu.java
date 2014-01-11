@@ -5,7 +5,6 @@ import java.util.ArrayList;
  * A menu
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Menu
 {

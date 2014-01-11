@@ -5,7 +5,6 @@ package GameModel;
  * Handles file input/output
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class FileIO
 {

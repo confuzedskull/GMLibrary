@@ -8,8 +8,7 @@ import GameModel.Things.LivingThings.LivingThing;
  * A plant is a living thing that gets nutrients from the environment
  * It typically is incapable of movement.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author James Nakano
  */
 public class Plant extends LivingThing
 {

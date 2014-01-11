@@ -9,7 +9,6 @@ import GameModel.Things.Items.Key;
  * A room is a place that has a door
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Room extends Place
 {

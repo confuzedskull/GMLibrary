@@ -5,7 +5,6 @@ package GameModel.Things.LivingThings.Animals;
  * An animal that can live in water and on land
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Amphebian extends Animal
 {

@@ -5,7 +5,6 @@ package GameModel.Things.Items.Weapons;
  * A large blade
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Sword extends Blade
 {

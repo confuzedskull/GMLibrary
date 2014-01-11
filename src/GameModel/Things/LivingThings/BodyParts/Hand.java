@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * It consists of multiple fingers
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Hand extends BodyPart
 {

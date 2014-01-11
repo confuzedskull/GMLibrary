@@ -5,7 +5,6 @@ import GameModel.Things.LivingThings.BodyParts.*;
  * An four-legged mammal from the canine species
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Dog extends Mammal
 {

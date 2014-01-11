@@ -5,7 +5,6 @@ import java.util.ArrayList;
  * A city is a place that contains buildings
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class City extends Place
 {

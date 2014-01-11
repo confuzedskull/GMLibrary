@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * It is part of the leg.
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Foot
 {

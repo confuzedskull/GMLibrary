@@ -5,7 +5,6 @@ import java.util.ArrayList;
  * A continent is a place that contains countries
  * 
  * @author (your name) 
- * @version (a version number or a date)
  */
 public class Continent extends Place
 {

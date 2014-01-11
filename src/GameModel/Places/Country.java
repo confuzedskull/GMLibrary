@@ -5,7 +5,6 @@ import java.util.ArrayList;
  * A country is a place that contains Cities
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Country extends Place
 {

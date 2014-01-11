@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * A weapon that can inflict damage from a distance
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class RangedWeapon extends Weapon
 {

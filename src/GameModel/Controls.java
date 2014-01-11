@@ -5,7 +5,6 @@ package GameModel;
  * Takes care of the controls in the game
  * 
  * @author James
- * @version (a version number or a date)
  */
 public class Controls
 {

@@ -10,7 +10,6 @@ import java.util.Random;
  * A Living Object has health. It needs to eat,drink, and reproduce in order to survive.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class LivingThing extends Thing
 {

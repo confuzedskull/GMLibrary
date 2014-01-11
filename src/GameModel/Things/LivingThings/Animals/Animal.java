@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * Animals are complex living things.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Animal extends LivingThing
 {

@@ -5,7 +5,6 @@ package GameModel;
  * An attribute stores a value that has limits. Its value can be evaluated in relation to its limits.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Attribute
 {

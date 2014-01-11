@@ -5,7 +5,6 @@ import java.util.ArrayList;
  * A typical game level
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Level
 {

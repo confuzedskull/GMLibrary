@@ -8,7 +8,6 @@ import GameModel.Outfit;
  * It is more detailed than a regular character and has needs that must be met.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class SimCharacter extends Character
 {

@@ -5,7 +5,6 @@ package GameModel.Things.Items;
  * A key unlocks a lock
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Key extends Item
 {

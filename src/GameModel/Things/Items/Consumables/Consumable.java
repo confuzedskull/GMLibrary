@@ -6,7 +6,6 @@ import GameModel.Attribute;
  * An item that can be consumed to improve stats
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Consumable extends Item
 {

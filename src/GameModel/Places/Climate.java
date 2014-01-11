@@ -6,7 +6,6 @@ import GameModel.Attribute;
  * A Climate consists of a variety of attributes that describe the environment
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Climate
 {

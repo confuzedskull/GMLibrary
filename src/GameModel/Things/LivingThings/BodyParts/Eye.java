@@ -5,7 +5,6 @@ import java.awt.Color;
  * A body part that enables sight
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Eye
 {

@@ -5,7 +5,6 @@ package GameModel.Things.Items.Clothing;
  * Headwear is clothing that is worn on the head.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Headwear extends Clothing
 {

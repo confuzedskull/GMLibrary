@@ -5,7 +5,6 @@ import GameModel.Things.LivingThings.BodyParts.*;
  * A horse is a four-legged mammal that can be ridden by a human.
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Horse extends Mammal
 {

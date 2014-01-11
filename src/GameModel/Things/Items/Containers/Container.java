@@ -7,7 +7,6 @@ import java.lang.Character;
  * A container stores things
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Container extends Item
 {

@@ -6,7 +6,6 @@ package GameModel;
  * It consists of everything that doesnt really have function but shows up in the world.
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Scenery
 {

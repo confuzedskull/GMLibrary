@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * A Thing is an object that has a name,number, status, and description
  * 
  * @author James Nakano 
- * @version 11/17/2012
  */
 public class Thing
 {

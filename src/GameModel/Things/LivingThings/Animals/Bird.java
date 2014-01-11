@@ -5,7 +5,6 @@ package GameModel.Things.LivingThings.Animals;
  * An animal that has the ability to fly
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Bird extends Animal
 {

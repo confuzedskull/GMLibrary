@@ -5,7 +5,6 @@ package GameModel.Things.LivingThings.Animals;
  * A scaly cold-blooded animal
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Reptile extends Animal
 {

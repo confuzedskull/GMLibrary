@@ -7,7 +7,6 @@ import GameModel.Things.Items.Item;
  * A tool made for combat
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Weapon extends Item
 {

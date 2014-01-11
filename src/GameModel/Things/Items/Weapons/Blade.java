@@ -5,7 +5,6 @@ import GameModel.Things.Items.Item;
  * A weapon that is sharp
  * 
  * @author (your name) 
- * @version (a version number or a date)
  */
 public class Blade extends Weapon
 {

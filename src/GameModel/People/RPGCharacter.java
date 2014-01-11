@@ -15,7 +15,6 @@ import java.util.ArrayList;
  * Models a generic RPG character
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class RPGCharacter extends Character
 {

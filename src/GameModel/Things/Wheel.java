@@ -5,7 +5,6 @@ package GameModel.Things;
  * A wheel is a cylindrical thing that is designed to rotate on a spindle
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Wheel
 {

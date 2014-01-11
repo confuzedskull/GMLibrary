@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * A player in the game
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Player extends Character
 {

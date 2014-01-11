@@ -5,7 +5,6 @@ import GameModel.Things.LivingThings.BodyParts.*;
  * Humans are complex mammals capable of thought 
  * 
  * @author James Nakano 
- * @version (a version number or a date)
  */
 public class Human extends Mammal
 {

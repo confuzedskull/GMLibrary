@@ -5,7 +5,6 @@ import GameModel.Things.LivingThings.BodyParts.*;
  * A fire-breathing reptile capable of flight
  * 
  * @author James Nakano
- * @version (a version number or a date)
  */
 public class Dragon extends Reptile
 {
