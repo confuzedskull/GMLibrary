@@ -7,7 +7,7 @@ import GameModel.Things.Items.Clothing.*;
  * 
  * @author James Nakano
  */
-public class Outfit 
+public class Outfit
 {
     public Headwear headwear;
     public Accessory accessory;
@@ -21,6 +21,15 @@ public class Outfit
     public Outfit()
     {
 
+    }
+    
+    public Outfit(Headwear h, Accessory a, Topwear t, Bottomwear b, Footwear f)
+    {
+        headwear = h;
+        accessory = a;
+        top = t;
+        bottom = b;
+        shoes = f;
     }
 
     

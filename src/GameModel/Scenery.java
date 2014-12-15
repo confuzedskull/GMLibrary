@@ -3,7 +3,7 @@ package GameModel;
 
 /**
  * Scenery is what makes the environment look pretty. 
- * It consists of everything that doesnt really have function but shows up in the world.
+ * It consists of everything that doesn't really have function but shows up in the world.
  * 
  * @author James Nakano 
  */
@@ -17,8 +17,7 @@ public class Scenery
      */
     public Scenery()
     {
-        // initialise instance variables
-        x = 0;
+
     }
 
     

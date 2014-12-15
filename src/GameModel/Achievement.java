@@ -18,7 +18,7 @@ public class Achievement extends Thing
     public Achievement()
     {
         name="Achievement";
-        description="You did something!";
+        description="You did something! :-o";
         complete=false;
         status="not completed";
         completed=0;

@@ -9,8 +9,6 @@ import java.util.ArrayList;
  */
 public class Player extends Character
 {
-    // instance variables - replace the example below with your own
-    
     private static ArrayList<Player> listOfPlayers = new ArrayList<Player>();
     private int[] action;
    
